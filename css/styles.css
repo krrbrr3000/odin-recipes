@@ -1,18 +1,18 @@
 * {
-    background-color:#64c9f5;
-}
+    margin: 0px;
+    }
 
-.body {
-    background-color:#64c9f5;
+body {
+    background-color:#af2992;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: #1a1a1a;
-    font-size: 30 px;
+    font-size: 30px;
 }
 
 .title {
-    font-size: 60 px;
-    margin-top: 20 px;
-    margin-bottom: 10 px;
-    text-decoration: purple wavy underline;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline wavy rgb(15, 231, 80);
 }

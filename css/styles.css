@@ -1,8 +1,18 @@
-div {
-    color: white;
-    background-color: black;
+* {
+    background-color:#64c9f5;
 }
 
-p {
-    color: red;
+.body {
+    background-color:#64c9f5;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #1a1a1a;
+    font-size: 30 px;
+}
+
+.title {
+    font-size: 60 px;
+    margin-top: 20 px;
+    margin-bottom: 10 px;
+    text-decoration: purple wavy underline;
 }
